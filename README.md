@@ -78,7 +78,7 @@ This project involves provisioning a Linux server, installing a web server, depl
 
 ---
 
-## Public IP Address
+## My Public IP Address
 Public IP Address: `http://13.53.78.143/`
 
 ---
@@ -91,26 +91,10 @@ Public IP Address: `http://13.53.78.143/`
 ---
 
 ## Screenshots
-1. **AWS EC2 Instance Running:** Screenshot of the EC2 dashboard.
-2. **SSH Connection:** Screenshot of the terminal after connecting via SSH.
-3. **Apache Installation:** Screenshot of the terminal showing Apache installation.
-4. **Landing Page:** Screenshot of the browser displaying the deployed landing page.
+1. **AWS EC2 Instance Running:** Screenshot of the EC2 dashboard. ![Screenshot of AWS EC2 Instance in a running state](EC2_Instance_Running)
+2. **SSH Connection:** Screenshot of the terminal after connecting via SSH.![SSH through the terminal](SSH_Connection)
+3. **Landing Page:** Screenshot of the browser displaying the deployed landing page. ![this is exactly how my webpage is being displayed](Landing_Page)
 
-Ensure all screenshots are added to the repository for validation.
-
----
-
-## Repository Structure
-```
-.
-├── README.md
-├── index.html
-└── screenshots/
-    ├── ec2_instance_running.png
-    ├── ssh_connection.png
-    ├── apache_installation.png
-    └── landing_page.png
-```
 
 ---
 
