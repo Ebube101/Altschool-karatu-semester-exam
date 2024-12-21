@@ -91,15 +91,14 @@ Public IP Address: `http://13.53.78.143/`
 ---
 
 ## Screenshots
-1. **AWS EC2 Instance Running:** Screenshot of the EC2 dashboard. ![Screenshot of AWS EC2 Instance in a running state](EC2_Instance_Running)
+1. **AWS EC2 Instance Running:** Screenshot of the EC2 dashboard. 
+![Screenshot of AWS EC2 Instance in a running state](https://github.com/user-attachments/assets/9a7fa2e8-708c-4c52-8ce0-e8bca305dc8a)
 
-![EC2_Instance_Running](https://github.com/user-attachments/assets/9a7fa2e8-708c-4c52-8ce0-e8bca305dc8a)
+2. **SSH Connection:** Screenshot of the terminal after connecting via SSH.
+![SSH through the terminal](https://github.com/user-attachments/assets/52c35e69-da82-4643-8282-6e01d0a71447)
 
-![EC2_Instance_Running](https://github.com/user-attachments/assets/80434179-c8ab-45d7-86a0-fdf1e8df22e8)
-
-
-3. **SSH Connection:** Screenshot of the terminal after connecting via SSH.![SSH through the terminal](SSH_Connection)
-4. **Landing Page:** Screenshot of the browser displaying the deployed landing page. ![this is exactly how my webpage is being displayed](Landing_Page)
+3. **Landing Page:** Screenshot of the browser displaying the deployed landing page.
+![this is exactly how my webpage is being displayed](https://github.com/user-attachments/assets/14a62842-21a2-4914-9702-7d27e00c016e)
 
 
 ---
